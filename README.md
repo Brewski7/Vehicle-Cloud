@@ -12,9 +12,6 @@ The demonstrations illustrate both the **Named Data Networking (NDN) disseminati
 
 ## 🧩 1. NDN Data Dissemination — A Visual Demo
 
-### 🎬 Video
-[![Watch the NDN Data Dissemination Demo](https://img.shields.io/badge/▶️%20Click%20to%20View-Video-blue)](demos/v2v-visual-demo-2x.mp4)
-
 ### 🎬 Demo Video
 
 <p align="center">
@@ -58,9 +55,6 @@ This demo visually contrasts NDN’s *content-centric* forwarding model with tra
 
 ### 🖼️ Abstracted View (CLI Representation)
 ![Functional Demo — Abstracted View](demos/Waldo%20GIF2.gif)
-
-### 🎥 Full Video
-[![Watch the Functional PoC Demo](https://img.shields.io/badge/▶️%20Click%20to%20View-Video-green)](demos/v2v-functional-demo1p5.mp4)
 
 ### 🎥 Full Video
 
