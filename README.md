@@ -1,5 +1,7 @@
 # Vehicle-Cloud
-V2V Mesh Implementation using B.A.T.M.A.N with NDN, ndn-pyhton-repo and PSync.
+V2V Mesh Implementation demonstration using B.A.T.M.A.N with NDN, ndn-pyhton-repo and PSync.
+
+Project code can be found in the companion repository: [brewski/v2v-cloud](https://github.com/Brewski7/v2v-cloud).
 
 # Vehicle-Cloud Demonstration Gallery
 
