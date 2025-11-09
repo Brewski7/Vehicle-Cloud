@@ -15,6 +15,18 @@ The demonstrations illustrate both the **Named Data Networking (NDN) disseminati
 ### 🎬 Video
 [![Watch the NDN Data Dissemination Demo](https://img.shields.io/badge/▶️%20Click%20to%20View-Video-blue)](demos/v2v-visual-demo-2x.mp4)
 
+### 🎬 Demo Video
+
+<p align="center">
+  <a href="https://github.com/YourUser/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
+    <img src="demos/visual_thumbnail.png" alt="NDN Data Dissemination Demo" width="70%">
+  </a>
+  <br>
+  <a href="https://github.com/YourUser/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Click%20to%20View-Video-blue">
+  </a>
+</p>
+
 ### 🧠 Description
 This visualization demonstrates how **Named Data Networking (NDN)** disseminates information across a multi-hop V2V mesh.  
 Each node represents a vehicle equipped with the NDN Forwarding Daemon (NFD), exchanging **Interest** and **Data** packets via **B.A.T.M.A.N.** at the link layer.
@@ -49,6 +61,19 @@ This demo visually contrasts NDN’s *content-centric* forwarding model with tra
 
 ### 🎥 Full Video
 [![Watch the Functional PoC Demo](https://img.shields.io/badge/▶️%20Click%20to%20View-Video-green)](demos/v2v-functional-demo1p5.mp4)
+
+### 🎥 Full Video
+
+<p align="center">
+  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-functional-demo1p5.mp4">
+    <img src="demos/functional_thumbnail.png" alt="Functional PoC Demo" width="70%">
+  </a>
+  <br>
+  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-functional-demo1p5.mp4">
+    <img src="https://img.shields.io/badge/▶️%20Click%20to%20View-Video-green">
+  </a>
+</p>
+
 
 ### 🧩 Description
 This demonstration shows the **operational Proof-of-Concept (PoC)** running on multiple Raspberry Pi 4 nodes acting as vehicles in an ad-hoc Wi-Fi mesh.  
