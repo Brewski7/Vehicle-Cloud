@@ -18,11 +18,11 @@ The demonstrations illustrate both the **Named Data Networking (NDN) disseminati
 ### 🎬 Demo Video
 
 <p align="center">
-  <a href="https://github.com/YourUser/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
+  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
     <img src="demos/visual_thumbnail.png" alt="NDN Data Dissemination Demo" width="70%">
   </a>
   <br>
-  <a href="https://github.com/YourUser/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
+  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-visual-demo-2x.mp4">
     <img src="https://img.shields.io/badge/▶️%20Click%20to%20View-Video-blue">
   </a>
 </p>
@@ -65,11 +65,11 @@ This demo visually contrasts NDN’s *content-centric* forwarding model with tra
 ### 🎥 Full Video
 
 <p align="center">
-  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-functional-demo1p5.mp4">
+  <a href="https://raw.githubusercontent.com/Brewski7/Vehicle-Cloud/main/demos/v2v-functional-demo1p5.mp4">
     <img src="demos/functional_thumbnail.png" alt="Functional PoC Demo" width="70%">
   </a>
   <br>
-  <a href="https://github.com/Brewski7/Vehicle-Cloud/raw/main/demos/v2v-functional-demo1p5.mp4">
+  <a href="https://raw.githubusercontent.com/Brewski7/Vehicle-Cloud/main/demos/v2v-functional-demo1p5.mp4">
     <img src="https://img.shields.io/badge/▶️%20Click%20to%20View-Video-green">
   </a>
 </p>
