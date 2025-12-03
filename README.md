@@ -105,7 +105,7 @@ The accompanying GIF abstracts the CLI interface for a quick overview, while the
 ---
 
 > <sub>© 2025 Waldo Jordaan. All rights reserved.  
-> Provided for academic demonstration under NDA with BMW IT Hub South Africa.  
+> Provided for academic demonstration under NDA.  
 > Redistribution or modification prohibited.  
 > See the [LICENSE](./LICENSE) file for details.</sub>
 
